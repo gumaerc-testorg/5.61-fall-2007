@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 70e24d76-de15-e943-d5e6-3ce28f445bab
 ---
@@ -159,7 +162,7 @@ L12
 {{< tdopen >}}
 Quantum harmonic oscillator
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 ([PDF - 2.1 MB]({{< baseurl >}}/resources/lecture12to15))
@@ -266,7 +269,7 @@ L21
 {{< tdopen >}}
 Helium atom
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture21to22))
 {{< tdclose >}}
 
@@ -321,7 +324,7 @@ Born-Oppenheimer approximation
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular orbital theory, H2+
+Molecular orbital theory, H{{< sub "2" >}}{{< sup "+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture26))
@@ -347,7 +350,7 @@ L28
 {{< tdopen >}}
 Qualitative molecular orbital theory
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/lecture28to29))
 {{< tdclose >}}
 
@@ -392,7 +395,7 @@ L32
 {{< tdopen >}}
 NMR spectroscopy I
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/lecture32to33))
 {{< tdclose >}}
 

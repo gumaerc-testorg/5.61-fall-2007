@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on the wave-particle duality of light and matter.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2007/f7cf1c6083279d63e91842234c63b8be_lecture5.pdf
+file: /media/courses/5-61-physical-chemistry-fall-2007/f7cf1c6083279d63e91842234c63b8be_lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture5.pdf
 uid: f7cf1c60-8327-9d63-e918-42234c63b8be

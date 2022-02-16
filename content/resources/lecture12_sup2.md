@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout on Ehrenfest's theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2007/cfe3277a12500dd6b948911b1f9ac390_lecture12_sup2.pdf
+file: /media/courses/5-61-physical-chemistry-fall-2007/cfe3277a12500dd6b948911b1f9ac390_lecture12_sup2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture12_sup2.pdf
 uid: cfe3277a-1250-0dd6-b948-911b1f9ac390

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7ac1733d-8f60-8c52-780e-85d43a325615
 ---
@@ -329,7 +332,7 @@ Chapter 10.1-10.5
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular orbital theory, H2+
+Molecular orbital theory, H{{< sub "2" >}}{{< sup "+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

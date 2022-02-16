@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on spectroscopy, dipole approximation, interaction Hamiltonian,
   time dependent eigenstates, linear response approximation, and Fermi?s golden rule.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2007/3a422a7a71c25c02335a85fdf77a2926_lecture34.pdf
+file: /media/courses/5-61-physical-chemistry-fall-2007/3a422a7a71c25c02335a85fdf77a2926_lecture34.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture34.pdf
 uid: 3a422a7a-71c2-5c02-335a-85fdf77a2926
