@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides information about the course textbook,
+  exams, homework, grading, tutorial reviews, and the schedule of lecture topics and
+  key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -449,7 +452,7 @@ Born-Oppenheimer approximation
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular orbital theory, H{{< sub "2" >}}{{< sup "+" >}}
+Molecular orbital theory, H{{< sub "2" >}}{{< sup "\+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

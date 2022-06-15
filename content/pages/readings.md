@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on readings assigned from the course
+  textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -332,7 +334,7 @@ Chapter 10.1-10.5
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular orbital theory, H{{< sub "2" >}}{{< sup "+" >}}
+Molecular orbital theory, H{{< sub "2" >}}{{< sup "\+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
