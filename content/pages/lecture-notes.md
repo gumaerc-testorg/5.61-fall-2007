@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course and information
+  on lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 70e24d76-de15-e943-d5e6-3ce28f445bab
 ---
@@ -28,7 +33,7 @@ L1
 Historical development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link c0227536-e8fe-35dd-d56b-9570f43b2b47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ L2
 The atom of Niels Bohr
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link 54e6c03f-1380-1ae3-ba8d-b85079ee7326 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ L3
 Wave nature, de Broglie wavelength
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 293a5b0e-5614-4e16-3378-353e130019b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ L4
 Uncertainty principle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link 909d1c13-17e8-b6f2-ff4b-b7d40deae7df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ L5
 Stationary waves, Schrödinger equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture5))
+({{% resource_link f7cf1c60-8327-9d63-e918-42234c63b8be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ L6
 Particle in a box
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture6))
+({{% resource_link c53ccb5c-21f1-baec-b013-ea5a48801b27 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ L7
 Probabilities, expectation values, operators I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link d6231691-7bf3-9c5f-c198-1ced7c998aa5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ L8
 Probabilities, expectation values, operators II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link 187f992f-d0cd-e125-95f7-4686872a4dd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ L9
 Postulates of quantum mechanics I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9))
+({{% resource_link 732ff8fd-9deb-ddf9-8287-a99df3c504a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ L10
 Postulates of quantum mechanics II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link e6921065-2de9-0442-8188-a04bd0345440 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ L11
 Classic harmonic oscillator
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link cc3f33d3-0152-0cfa-a2a3-d6aadb1684ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,14 +164,14 @@ L12
 {{< tdopen >}}
 Quantum harmonic oscillator
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
-([PDF - 2.1 MB]({{< baseurl >}}/resources/lecture12to15))
+({{% resource_link cc186784-ceeb-2417-9abb-a747588570fc "PDF - 2.1 MB" %}})
 
-Note supplement 1 ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture12_sup1))
+Note supplement 1 ({{% resource_link 178d2bf8-e4bd-c909-6c64-8fb9e0a38add "PDF - 1.1 MB" %}})
 
-Note supplement 2 ([PDF]({{< baseurl >}}/resources/lecture12_sup2))
+Note supplement 2 ({{% resource_link cfe3277a-1250-0dd6-b948-911b1f9ac390 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -207,7 +212,7 @@ L16
 Spherical harmonics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link f7527956-1750-08f1-f455-894d34d3f66b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +224,7 @@ L17
 Angular momenta
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 7f22eae8-7bae-7d68-3505-6af0a0c85df9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +236,7 @@ L18
 Hydrogen atom I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18))
+({{% resource_link 7bfd97be-2221-2981-a631-488f8811a46b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +248,7 @@ L19
 Hydrogen atom II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link 50aa3822-fda8-1d32-245a-6d1ea631ee1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +260,7 @@ L20
 Variation principle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link dfc5f1db-f986-ffc3-215d-1600ba51d812 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,8 +271,8 @@ L21
 {{< tdopen >}}
 Helium atom
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture21to22))
+{{< tdopen rowspan="2" >}}
+({{% resource_link c2078ff2-5c61-c136-e67c-eb6fd8eb9b34 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +293,7 @@ L23
 Electron spin
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23))
+({{% resource_link 4e26b6e3-bf8a-9259-890a-2160abdf2879 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +305,7 @@ L24
 Pauli principle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture24))
+({{% resource_link 3b1fb40c-61e7-f939-861b-190bedbc57a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +317,7 @@ L25
 Born-Oppenheimer approximation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture25))
+({{% resource_link a1665ed9-8598-802e-2686-d5d59622b8fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,10 +326,10 @@ Born-Oppenheimer approximation
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular orbital theory, H2+
+Molecular orbital theory, H{{< sub "2" >}}{{< sup "\+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture26))
+({{% resource_link d93711b5-02f4-deab-c674-54a94cd922e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -336,7 +341,7 @@ L27
 LCAO-MO theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture27))
+({{% resource_link bdabd862-27c9-b892-7430-40cc25025f8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,8 +352,8 @@ L28
 {{< tdopen >}}
 Qualitative molecular orbital theory
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture28to29))
+{{< tdopen rowspan="2" >}}
+({{% resource_link b0101a5d-f1b1-7809-fc75-a0256af6aaf6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +374,7 @@ L30
 Interaction of light with matter
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture30))
+({{% resource_link e1317ade-3872-1363-9a8d-2bf26103078a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +386,7 @@ L31
 Vibrational spectra
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture31))
+({{% resource_link f236323f-9693-2627-d5e9-16fc63fd3f55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,8 +397,8 @@ L32
 {{< tdopen >}}
 NMR spectroscopy I
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture32to33))
+{{< tdopen rowspan="2" >}}
+({{% resource_link dca761d5-b503-b7e4-5686-7e93aaad81fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -414,7 +419,7 @@ L34
 Perturbation theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture34))
+({{% resource_link 3a422a7a-71c2-5c02-335a-85fdf77a2926 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,7 +431,7 @@ L35
 Vibrational anharmonicity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture35))
+({{% resource_link 095a9e4c-50ae-3e84-6379-33b0c6a65461 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +443,7 @@ L36
 Crystal field states
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture36))
+({{% resource_link a4e6eef3-37e0-55df-adf2-8900e6e127c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
