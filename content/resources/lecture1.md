@@ -5,6 +5,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/c0227536e8fe35ddd56b9570f43b2b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1.pdf
 uid: c0227536-e8fe-35dd-d56b-9570f43b2b47
 ---
 Lecture notes on the historical development of quantum mechanics.
-

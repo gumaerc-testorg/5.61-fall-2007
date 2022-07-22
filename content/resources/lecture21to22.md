@@ -7,6 +7,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/c2078ff25c61c136e67ceb6fd8eb9b3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture21to22.pdf
 uid: c2078ff2-5c61-c136-e67c-eb6fd8eb9b34
 ---
 Lecture notes on the hydrogen atom, total hydrogen atom wavefunctions, hydrogen atom energies, atom energies, shapes and symmetries of the orbitals, and magnetic field effects.
-

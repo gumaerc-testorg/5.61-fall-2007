@@ -6,6 +6,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/cc186784ceeb24179abba747588570f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture12to15.pdf
 uid: cc186784-ceeb-2417-9abb-a747588570fc
 ---
 Lecture notes on the harmonic oscillator and the quantum mechanical harmonic oscillator.
-

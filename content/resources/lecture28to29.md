@@ -8,6 +8,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/b0101a5df1b17809fc75a0256af6aaf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: b0101a5d-f1b1-7809-fc75-a0256af6aaf6
 ---
 Lecture notes on molecular orbital theory, the Born-Oppenheimer
 approximation, the variational principle, proof of the variational theorem, and overlap repulsion.
-

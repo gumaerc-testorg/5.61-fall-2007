@@ -5,6 +5,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/187f992fd0cde12595f74686872a4dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture8.pdf
 uid: 187f992f-d0cd-e125-95f7-4686872a4dd5
 ---
 Lecture notes on a quantum mechanical particle in a box.
-

@@ -5,6 +5,7 @@ file: /courses/5-61-physical-chemistry-fall-2007/c69cf9fedd46835ff1b67b4f6a38393
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam1.pdf
 uid: c69cf9fe-dd46-835f-f1b6-7b4f6a383933
 ---
 Handout containing constants and formulas for the first exam.
-
