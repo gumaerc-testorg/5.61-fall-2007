@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on molecular orbital theory, antisymmetrized wavefunctions,
   and diatomic molecules.
 file: /courses/5-61-physical-chemistry-fall-2007/e1317ade387213639a8d2bf26103078a_lecture30.pdf
+file_size: 829196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
