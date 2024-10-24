@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on Ehrenfest's theorem.
-file: /courses/5-61-physical-chemistry-fall-2007/cfe3277a12500dd6b948911b1f9ac390_lecture12_sup2.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/cfe3277a12500dd6b948911b1f9ac390_lecture12_sup2.pdf
 file_size: 347089
 file_type: application/pdf
 learning_resource_types:

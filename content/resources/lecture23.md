@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on experimental evidence and theoretical justification
   for electron spin, orbital angular momentum, and spin angular momentum.
-file: /courses/5-61-physical-chemistry-fall-2007/4e26b6e3bf8a9259890a2160abdf2879_lecture23.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/4e26b6e3bf8a9259890a2160abdf2879_lecture23.pdf
 file_size: 110099
 file_type: application/pdf
 learning_resource_types:

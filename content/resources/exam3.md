@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing constants and formulas for the third exam.
-file: /courses/5-61-physical-chemistry-fall-2007/0863df35640a05b85a139381a52058e0_exam3.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/0863df35640a05b85a139381a52058e0_exam3.pdf
 file_size: 118917
 file_type: application/pdf
 learning_resource_types:
