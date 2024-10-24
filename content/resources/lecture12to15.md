@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the harmonic oscillator and the quantum mechanical harmonic
   oscillator.
-file: /courses/5-61-physical-chemistry-fall-2007/cc186784ceeb24179abba747588570fc_lecture12to15.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/cc186784ceeb24179abba747588570fc_lecture12to15.pdf
 file_size: 2165773
 file_type: application/pdf
 learning_resource_types:

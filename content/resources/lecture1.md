@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the historical development of quantum mechanics.
-file: /courses/5-61-physical-chemistry-fall-2007/c0227536e8fe35ddd56b9570f43b2b47_lecture1.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/c0227536e8fe35ddd56b9570f43b2b47_lecture1.pdf
 file_size: 131921
 file_type: application/pdf
 learning_resource_types:

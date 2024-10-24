@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on many electron atoms, the independent particle model,
   and Slater determinants.
-file: /courses/5-61-physical-chemistry-fall-2007/bdabd86227c9b892743040cc25025f8a_lecture27.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/bdabd86227c9b892743040cc25025f8a_lecture27.pdf
 file_size: 213906
 file_type: application/pdf
 learning_resource_types:
