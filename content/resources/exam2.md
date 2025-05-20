@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing constants and formulas for the second exam.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/c1aa9878161897199a58a49b5fdd0b91_exam2.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/c1aa9878161897199a58a49b5fdd0b91_exam2.pdf
 file_size: 83716
 file_type: application/pdf
 learning_resource_types:

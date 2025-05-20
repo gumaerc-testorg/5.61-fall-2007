@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on spherical harmonics, quantum in three dimensions, separable
   systems, and examples: 3D harmonic oscillator, and particle in 3D box.'
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/f7527956175008f1f455894d34d3f66b_lecture16.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/f7527956175008f1f455894d34d3f66b_lecture16.pdf
 file_size: 224867
 file_type: application/pdf
 learning_resource_types:

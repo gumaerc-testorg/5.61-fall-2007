@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Pauli Spin matrices, matrix mechanics, and Hermitian
   matrices.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/3b1fb40c61e7f939861b190bedbc57a7_lecture24.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/3b1fb40c61e7f939861b190bedbc57a7_lecture24.pdf
 file_size: 207388
 file_type: application/pdf
 learning_resource_types:

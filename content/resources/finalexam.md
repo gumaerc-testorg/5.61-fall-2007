@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing constants and formulas for the final exam.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/4d36716a87fc218d3c81ed85b5584dee_finalexam.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/4d36716a87fc218d3c81ed85b5584dee_finalexam.pdf
 file_size: 101136
 file_type: application/pdf
 learning_resource_types:

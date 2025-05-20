@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on variance, root-mean square, operators, eigenfunctions,
   and eigenvalues.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/732ff8fd9debddf98287a99df3c504a2_lecture9.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/732ff8fd9debddf98287a99df3c504a2_lecture9.pdf
 file_size: 639958
 file_type: application/pdf
 learning_resource_types:

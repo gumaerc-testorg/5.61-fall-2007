@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on modern electronic structure theory, choosing an atomic
   orbital basis, and polarization basis functions.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/dca761d5b503b7e456867e93aaad81fd_lecture32to33.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/dca761d5b503b7e456867e93aaad81fd_lecture32to33.pdf
 file_size: 311701
 file_type: application/pdf
 learning_resource_types:
