@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on nuclear magnetic resonance, nuclear spins in a static
   magnetic field, and spin dynamics and pulsed NMR.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/a4e6eef337e055dfadf28900e6e127c3_lecture36.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/a4e6eef337e055dfadf28900e6e127c3_lecture36.pdf
 file_size: 334541
 file_type: application/pdf
 learning_resource_types:

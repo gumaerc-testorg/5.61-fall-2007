@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on spherical harmonics.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/dfc5f1dbf986ffc3215d1600ba51d812_lecture20.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/dfc5f1dbf986ffc3215d1600ba51d812_lecture20.pdf
 file_size: 1019077
 file_type: application/pdf
 learning_resource_types:
