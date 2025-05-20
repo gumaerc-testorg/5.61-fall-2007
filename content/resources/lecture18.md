@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the general Eigenvalue relations for angular momentum.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/7bfd97be22212981a631488f8811a46b_lecture18.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/7bfd97be22212981a631488f8811a46b_lecture18.pdf
 file_size: 122467
 file_type: application/pdf
 learning_resource_types:

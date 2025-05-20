@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on solutions to the Schr?dinger equation, the free particle,
   and the particle in a box.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/d62316917bf39c5fc1981ced7c998aa5_lecture7.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/d62316917bf39c5fc1981ced7c998aa5_lecture7.pdf
 file_size: 639240
 file_type: application/pdf
 learning_resource_types:

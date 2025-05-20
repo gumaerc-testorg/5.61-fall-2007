@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the postulates of time-independent quantum mechanics.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/e69210652de904428188a04bd0345440_lecture10.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/e69210652de904428188a04bd0345440_lecture10.pdf
 file_size: 783772
 file_type: application/pdf
 learning_resource_types:

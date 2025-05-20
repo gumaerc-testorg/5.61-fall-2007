@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on angular momenta and rigid rotations.
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/7f22eae87bae7d6835056af0a0c85df9_lecture17.pdf
+file: /courses/5-61-physical-chemistry-fall-2007/7f22eae87bae7d6835056af0a0c85df9_lecture17.pdf
 file_size: 170220
 file_type: application/pdf
 learning_resource_types:
