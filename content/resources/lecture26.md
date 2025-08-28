@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on two-electron systems, excited states, and energies of
   singlet and triplet states.
-file: /courses/5-61-physical-chemistry-fall-2007/d93711b502f4deabc67454a94cd922e1_lecture26.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/d93711b502f4deabc67454a94cd922e1_lecture26.pdf
 file_size: 221952
 file_type: application/pdf
 learning_resource_types:

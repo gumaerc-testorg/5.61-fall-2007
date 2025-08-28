@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the basic approximation of H?ckel's molecular orbital
   theory and how a molecular orbital approximation describes conjugated systems.
-file: /courses/5-61-physical-chemistry-fall-2007/f236323f96932627d5e916fc63fd3f55_lecture31.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/f236323f96932627d5e916fc63fd3f55_lecture31.pdf
 file_size: 180844
 file_type: application/pdf
 learning_resource_types:
