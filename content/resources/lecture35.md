@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on vibrational spectroscopy, heterogeneity, anharmonicity,
   and polyatomic molecules.
-file: /courses/5-61-physical-chemistry-fall-2007/095a9e4c50ae3e84637933b0c6a65461_lecture35.pdf
+file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2007/095a9e4c50ae3e84637933b0c6a65461_lecture35.pdf
 file_size: 228727
 file_type: application/pdf
 learning_resource_types:
